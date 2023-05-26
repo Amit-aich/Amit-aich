@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/amit kumar aich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit kumar aich" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/amit kumar aich" target="blank"><i class="fa-brands fa-linkedin"></a>
 <a href="https://instagram.com/amit_1702" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amit_1702" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/amit_1702" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amit_1702" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/amit-aich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amit-aich" height="30" width="40" /></a>
@@ -30,3 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amit-aich&show_icons=true&locale=en" alt="amit-aich" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amit-aich&" alt="amit-aich" /></p>
+
+<script src="https://kit.fontawesome.com/58a810656e.js" crossorigin="anonymous"></script>
